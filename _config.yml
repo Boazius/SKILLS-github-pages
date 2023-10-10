@@ -1,0 +1,10 @@
+# Site settings
+title: My Jekyll Site
+author: Boazius
+description: A sample Jekyll site made in SKILLS github pages tutorial.
+baseurl: / # Set to '/' if your site is hosted at the root domain.
+# url: "https://www.example.com" # The base URL for your site.
+
+# Build settings
+# markdown: kramdown # Use the kramdown Markdown parser (default).
+theme: minima 
