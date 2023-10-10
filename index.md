@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+---
+
+
 # Welcome to My Homepage
 
 ## Hello, I'm Boaz
